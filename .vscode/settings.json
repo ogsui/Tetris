@@ -1,0 +1,29 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.o": true,
+    "**/*.exe": true
+  },
+  "files.associations": {
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "memory_resource": "cpp",
+    "optional": "cpp",
+    "istream": "cpp",
+    "numeric": "cpp",
+    "ostream": "cpp",
+    "streambuf": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp"
+  }
+}
