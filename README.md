@@ -1,8 +1,8 @@
 # Tetris in C++ with raylib
 
-A minimalist Tetris clone built in C++ using the [raylib](https://www.raylib.com/) game library. This project recreates the classic gameplay with smooth rendering and input handling.
+A Tetris clone built in C++ using the [raylib](https://www.raylib.com/) game library. This project recreates the classic gameplay with smooth rendering and input handling.
 
-## 🎮 Features
+##  Features
 
 - Classic Tetris mechanics
 - Score and line tracking
@@ -10,7 +10,7 @@ A minimalist Tetris clone built in C++ using the [raylib](https://www.raylib.com
 - Game over and restart
 - Written in clean, modular C++
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
